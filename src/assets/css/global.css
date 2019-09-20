@@ -1,0 +1,8 @@
+/*  分页背景颜色 */
+.el-pagination li.active {
+  color: #606266 !important;
+}
+.el-pagination {
+  color: #C0C4CC !important;
+}
+
